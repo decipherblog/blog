@@ -7,29 +7,13 @@
   <link href="True/blog/atom.xml" rel="self" />
   <generator uri="http://ablog.readthedocs.org" version="0.7.7">ABlog</generator>
   <entry xml:base="True/blog/atom.xml">
-    <title type="text">First Post</title>
-    <id>True/first-post/</id>
+    <title type="text">Introduction</title>
+    <id>True/posts/post/</id>
     <updated>2015-08-22T00:00:00Z</updated>
     <published>2015-08-22T00:00:00Z</published>
-    <link href="True/first-post/" />
+    <link href="True/posts/post/" />
     <author>
-      <name>neda</name>
-    </author>
-    <content type="html">&lt;p&gt;World, hello again! This very first paragraph of the post will be used
-as excerpt in archives and feeds. Find out how to control how much is shown
-in &lt;a class=&quot;reference external&quot; href=&quot;http://ablog.readthedocs.org/manual/post-excerpts-and-images/&quot;&gt;Post Excerpts and Images&lt;/a&gt;. Remember
-that you can refer to posts by file name, e.g. &lt;code class=&quot;docutils literal&quot;&gt;&lt;span class=&quot;pre&quot;&gt;:ref:`first-post`&lt;/span&gt;&lt;/code&gt; results
-in &lt;a class=&quot;reference internal&quot; href=&quot;../first-post/#first-post&quot;&gt;&lt;span&gt;First Post&lt;/span&gt;&lt;/a&gt;. Find out more at &lt;a class=&quot;reference external&quot; href=&quot;http://ablog.readthedocs.org/manual/cross-referencing-blog-pages/&quot;&gt;Cross-Referencing Blog Pages&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="True/blog/atom.xml">
-    <title type="text">Introduction</title>
-    <id>True/doc/post/</id>
-    <updated>2013-04-15T00:00:00Z</updated>
-    <published>2013-04-15T00:00:00Z</published>
-    <link href="True/doc/post/" />
-    <author>
-      <name>Ahmet, Durden</name>
+      <name>Vesselinova, Neda</name>
     </author>
     <content type="html">&lt;p&gt;After I wrote that email to somebody to explain c++, I discovered a new study technique!
 By trying to explain that subject in a way I thought made sense to someone who didn&amp;#8217;t know it, I ended up understanding the material way better than before.
@@ -39,6 +23,22 @@ Also if there are any mistakes feel free to let me know.
 Keep in mind I&amp;#8217;m writing this as if you have little to no knowledge on the topics; someone who has only taken introductionary Computer Science clas, but don&amp;#8217;t be offended dear reader
 The way I&amp;#8217;m going to structure it is in two parts.
 The first part defines and explains why this is a thing, and the second part will show how to actually implement it in code.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="True/blog/atom.xml">
+    <title type="text">First Post</title>
+    <id>True/posts/first-post/</id>
+    <updated>2015-08-22T00:00:00Z</updated>
+    <published>2015-08-22T00:00:00Z</published>
+    <link href="True/posts/first-post/" />
+    <author>
+      <name>neda</name>
+    </author>
+    <content type="html">&lt;p&gt;World, hello again! This very first paragraph of the post will be used
+as excerpt in archives and feeds. Find out how to control how much is shown
+in &lt;a class=&quot;reference external&quot; href=&quot;http://ablog.readthedocs.org/manual/post-excerpts-and-images/&quot;&gt;Post Excerpts and Images&lt;/a&gt;. Remember
+that you can refer to posts by file name, e.g. &lt;code class=&quot;docutils literal&quot;&gt;&lt;span class=&quot;pre&quot;&gt;:ref:`first-post`&lt;/span&gt;&lt;/code&gt; results
+in &lt;a class=&quot;reference internal&quot; href=&quot;../posts/first-post/#first-post&quot;&gt;&lt;span&gt;First Post&lt;/span&gt;&lt;/a&gt;. Find out more at &lt;a class=&quot;reference external&quot; href=&quot;http://ablog.readthedocs.org/manual/cross-referencing-blog-pages/&quot;&gt;Cross-Referencing Blog Pages&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>

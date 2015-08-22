@@ -8,8 +8,6 @@ Welcome to neda's Blog!
 
 Hello World! Find more about me here: :ref:`about`
 
-doc/post.rst
-
 Here is a list of most recent posts:
 
 .. postlist:: 5

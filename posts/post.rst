@@ -1,9 +1,9 @@
 
-.. post:: 15 Apr, 2013
+.. post:: 22 Aug, 2015
    :tags: tips, ablog, directive
    :category: Example, How To
-   :author: Ahmet, Durden
-   :location: Pittsburgh, SF
+   :author: Vesselinova, Neda
+   :location: Santa Fe, NM
    :redirect: doc/post.rst
    :excerpt: 2
    :image: 1
